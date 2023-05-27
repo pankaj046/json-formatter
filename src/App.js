@@ -39,7 +39,7 @@ function App() {
       </Navbar>
     <Container>
       <Row> 
-        <CodeMirror style = {{height:"80vh"}}
+        <CodeMirror style = {{height:"83vh", width:"100%"}}
           value={value}
           height="100%"
           options={{
